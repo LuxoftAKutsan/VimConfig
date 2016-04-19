@@ -4,3 +4,9 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible
+[submodule "fonts"]
+	path = fonts
+	url = https://github.com/powerline/fonts
+[submodule "bundle/--force"]
+	path = bundle/--force
+	url = https://github.com/vim-airline/vim-airline

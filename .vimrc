@@ -85,3 +85,4 @@ endfunction
 autocmd BufWritePre * :call Clear_whitespaces()
 map <F3> :NERDTreeToggle<CR>
 
+let g:airline_powerline_fonts = 1
