@@ -10,3 +10,9 @@
 [submodule "bundle/--force"]
 	path = bundle/--force
 	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = https://github.com/klen/python-mode.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
