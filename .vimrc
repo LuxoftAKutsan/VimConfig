@@ -16,7 +16,7 @@ set t_Co=256
 set cindent
 "set equalprg=astyle
 set background=dark
-highlight ColorColumn ctermbg=darkgray
+hi ColorColumn guibg=#2d2d2d ctermbg=246
 set showcmd
 
 " чтобы курсор не прыгал, а вёл себя так, как kwrite и т.п.
